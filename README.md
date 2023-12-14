@@ -120,7 +120,7 @@ Write your own steps here.
 </body>
 ```
 ## Output:
-I![Alt text](<Screenshot from 2023-12-14 20-30-34.png>)
+![Alt text](<Screenshot from 2023-12-14 20-30-34.png>)
 
 ## Result:
 HE PROGRAM WAS EXECUTED SUCCESSFULLY.
